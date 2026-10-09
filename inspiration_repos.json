@@ -1,0 +1,37 @@
+[
+  {
+    "name": "thriniiiiiiiiiiii/Rag-application-project",
+    "url": "https://github.com/thriniiiiiiiiiiii/Rag-application-project",
+    "description": "Production-grade RAG system using Ollama (LLM), ChromaDB (Vector DB), and Python \u2014 fully local, free, scalable AI document intelligence.",
+    "stars": 1,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "Aditya-dev2005/Gen_AI_Projects",
+    "url": "https://github.com/Aditya-dev2005/Gen_AI_Projects",
+    "description": "Production-ready Generative AI applications featuring RAG pipelines, multi-agent systems, vision models, document intelligence, and LLM-powered automation using LangChain, FastAPI, FAISS, Redis, and Streamlit.",
+    "stars": 1,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "Rithin812/JurisGraph-AI-an-Agentic-Legal-Research-Document-Intelligence-Platform",
+    "url": "https://github.com/Rithin812/JurisGraph-AI-an-Agentic-Legal-Research-Document-Intelligence-Platform",
+    "description": "JurisGraph AI \u2013 an Agentic Legal Research & Document Intelligence Platform, built using Python and modern Agentic AI technologies! \ud83e\udd16\u2696\ufe0f This project explores how Agentic AI + RAG + Multi-Agent Systems can be used to make legal research faster, more grounded, explainable, and source-traceable.",
+    "stars": 1,
+    "license": "NOASSERTION"
+  },
+  {
+    "name": "ankaiahpallapu/RAG_Projects",
+    "url": "https://github.com/ankaiahpallapu/RAG_Projects",
+    "description": "Enterprise RAG System for Document Intelligence, Built production RAG system processing 100K+ documents, achieving 94% precision with semantic search powered by LLMs Multilingual LLM Fine-tuning Pipeline, Developed end-to-end fine-tuning framework in Python for 5+ languages, reducing inference latency by 70% Real-time Vector Search.",
+    "stars": 0,
+    "license": "MIT"
+  },
+  {
+    "name": "Yash-bot/Projects",
+    "url": "https://github.com/Yash-bot/Projects",
+    "description": "AI/ML project portfolio \u2014 LLM systems, RAG pipelines,  agentic AI workflows, and document intelligence tools  built with LangChain, FastMCP, Qdrant, and FastAPI",
+    "stars": 0,
+    "license": "NOASSERTION"
+  }
+]
